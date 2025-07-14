@@ -1,0 +1,16 @@
+{
+  "$schema": "http://json.schemastore.org/template",
+  "author": "FlowSynx",
+  "classifications": [ "FlowSynx", "PluginCore", "Library" ],
+  "identity": "FlowSynx.PluginTemplate",
+  "name": "FlowSynx Plugin Template",
+  "shortName": "fxplugin",
+  "description": "Make plugin integration for the FlowSynx automation engine.",
+  "tags": {
+    "language": "C#",
+    "type": "project"
+  },
+  "sourceName": "TemplatePluginProject",
+  "preferNameDirectory": true,
+  "icon": "icon.png"
+}
