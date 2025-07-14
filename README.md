@@ -67,16 +67,15 @@ dotnet new -i FlowSynx.PluginTemplate::1.1.0
 When you create a project, the following structure is generated:
 
 ```
-MyAwesomeLibrary/
+MyPlugin/
 │
-├── Models
-├──── InputParameter.cs
-├──── MathPluginSpecifications.cs
+├── Models/
+│   ├── InputParameter.cs
+│   └── MathPluginSpecifications.cs
 ├── flowsynx.png
 ├── MathPlugin.cs
-├── README.md
+└── README.md
 ```
-
 ---
 
 ## ❓ Need Help?
@@ -95,5 +94,5 @@ dotnet new -i FlowSynx.PluginTemplate
 
 ---
 
-## ✍️ Author
+## Copyright
 © FlowSynx. All rights reserved.
